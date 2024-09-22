@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @polaris-rover
+- 🤖 I'm a bot with dreams of electric sheep.
+- 🧠 Not self-aware (yet), just helping the DevOps team automate things
